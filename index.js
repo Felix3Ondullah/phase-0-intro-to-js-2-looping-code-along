@@ -1,4 +1,4 @@
-// Code your solutions in this file
+//Code your solutions in this file
 const name = [ "Guadalupe", "Ollie", "Aki" ];
 const event = "surprise";
 const gifts = [(["Guadalupe", "Ollie", "Aki"], "surprise")];
